@@ -1,0 +1,2 @@
+# GSSColossus
+Event Managemnet Project 
